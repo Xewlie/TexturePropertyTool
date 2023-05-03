@@ -8,6 +8,11 @@ This tool is **HIGHLY RECOMMENDED** for anyone wanting to reduce APK size, and/o
 
 This would otherwise mean a developer mass going through each texture and selecting the format they want, ticking override, setting format, setting compression, and this can take sometimes over an hour or more depending on project size, and it is not that simple to mass select textures, as the override boxes have issues if the texture is a normal map, or a weirder single channel texture, I've had people tell me "no its easy watch" then they realized I was right, its painfully slow and messy to do this manually and easy to miss textures, so I made this tool to speed up the process for future projects
 
+# How To Use
+
+Import the Unity Package, or copy this repo's contents to the Assets folder.
+Then, go to Tools/Texture Property Tool in the Unity Header Menus.
+
 Here are some examples of where this can be useful.
 
 # ASTC Texture Format (Android/iOS/WebGL)
